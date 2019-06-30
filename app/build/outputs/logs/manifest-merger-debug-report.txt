@@ -1,0 +1,202 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7388ec28ad07b01bdee598851afb7e02\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:preference-v7:27.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\preference-v7-27.1.0.aar\77096ccee8ae45b6d72af05dc6b67a43\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a6553044c837d4d9ce91113a59e09c64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6c8e73f20535d0acb964978082807b65\AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\d91bbbbf87f45054905e7f9a9d7063d3\AndroidManifest.xml:2:1-14:12
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\878d7909de60fdbce9a34fd3a7050efa\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\300661cb4b470a853c119679b12b143d\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\fa5d6f61ac98bf3ef987c4fa2238db35\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\58a39c96f4926c38a377e41f11c336ff\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\c1adc8056b79bbc020452e637a63ced4\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\02689ff928d88dff2be9e271feeff68b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\8a0fb441bb1ead62f9fc28d312bf0315\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\8529ac592fcaa6278c617cc80bf95f2d\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\317438a322793e9449e6372cc9faa505\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\4cf879e68e1c6bd53ca7516c84906de8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ac49981906216e02a5ca79096bae61b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f824f578e1581b7b3a551d950760c7d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\07d9fef90866a5c26275b9a2c7e55127\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\69bdd550d46cbe66a5d41f4009cc855d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\aec3cc3418ec6dfe03ece9c2af7166e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\3d8336dfd97c39a0a468946bb00162f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\14848b1eb8bb29b88eb73e144f5877db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3169597d88ecd14737a3ca293ff8cf92\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fd0fde231e975df441d3f572649e26eb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6276a9ba8a5bc82d05ae0d974171a15c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\livedata-1.1.0.aar\8e36e683f7f491bfccb8182fdbb1123c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\76f13cccfc2468dc60030e201d1053c2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\04b4edde68a3cb586bc6e225d55598c1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e9bb4c7d3caa51221f77a27b4ebdcbb4\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:5:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:7:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6c8e73f20535d0acb964978082807b65\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6c8e73f20535d0acb964978082807b65\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\d91bbbbf87f45054905e7f9a9d7063d3\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\d91bbbbf87f45054905e7f9a9d7063d3\AndroidManifest.xml:7:5-12:19
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\300661cb4b470a853c119679b12b143d\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\300661cb4b470a853c119679b12b143d\AndroidManifest.xml:11:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\c1adc8056b79bbc020452e637a63ced4\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\c1adc8056b79bbc020452e637a63ced4\AndroidManifest.xml:22:5-28:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\8529ac592fcaa6278c617cc80bf95f2d\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\8529ac592fcaa6278c617cc80bf95f2d\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.administrator.popularmovies.MainActivity
+ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:14:9-23:20
+	android:label
+		ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:16:13-45
+	android:theme
+		ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.example.administrator.popularmovies.MovieDetails
+ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:24:9-88
+	android:screenOrientation
+		ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:24:49-85
+	android:name
+		ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml:24:19-47
+uses-sdk
+INJECTED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7388ec28ad07b01bdee598851afb7e02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7388ec28ad07b01bdee598851afb7e02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:27.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\preference-v7-27.1.0.aar\77096ccee8ae45b6d72af05dc6b67a43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:27.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\preference-v7-27.1.0.aar\77096ccee8ae45b6d72af05dc6b67a43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a6553044c837d4d9ce91113a59e09c64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a6553044c837d4d9ce91113a59e09c64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6c8e73f20535d0acb964978082807b65\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6c8e73f20535d0acb964978082807b65\AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\d91bbbbf87f45054905e7f9a9d7063d3\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\d91bbbbf87f45054905e7f9a9d7063d3\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\878d7909de60fdbce9a34fd3a7050efa\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\878d7909de60fdbce9a34fd3a7050efa\AndroidManifest.xml:5:5-43
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\300661cb4b470a853c119679b12b143d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\300661cb4b470a853c119679b12b143d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\fa5d6f61ac98bf3ef987c4fa2238db35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\fa5d6f61ac98bf3ef987c4fa2238db35\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\58a39c96f4926c38a377e41f11c336ff\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\58a39c96f4926c38a377e41f11c336ff\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\c1adc8056b79bbc020452e637a63ced4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\c1adc8056b79bbc020452e637a63ced4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\02689ff928d88dff2be9e271feeff68b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\02689ff928d88dff2be9e271feeff68b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\8a0fb441bb1ead62f9fc28d312bf0315\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\8a0fb441bb1ead62f9fc28d312bf0315\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\8529ac592fcaa6278c617cc80bf95f2d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\8529ac592fcaa6278c617cc80bf95f2d\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\317438a322793e9449e6372cc9faa505\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\317438a322793e9449e6372cc9faa505\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\4cf879e68e1c6bd53ca7516c84906de8\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\4cf879e68e1c6bd53ca7516c84906de8\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ac49981906216e02a5ca79096bae61b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ac49981906216e02a5ca79096bae61b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f824f578e1581b7b3a551d950760c7d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f824f578e1581b7b3a551d950760c7d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\07d9fef90866a5c26275b9a2c7e55127\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\07d9fef90866a5c26275b9a2c7e55127\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\69bdd550d46cbe66a5d41f4009cc855d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\69bdd550d46cbe66a5d41f4009cc855d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\aec3cc3418ec6dfe03ece9c2af7166e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\aec3cc3418ec6dfe03ece9c2af7166e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\3d8336dfd97c39a0a468946bb00162f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\3d8336dfd97c39a0a468946bb00162f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\14848b1eb8bb29b88eb73e144f5877db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\14848b1eb8bb29b88eb73e144f5877db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3169597d88ecd14737a3ca293ff8cf92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3169597d88ecd14737a3ca293ff8cf92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fd0fde231e975df441d3f572649e26eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fd0fde231e975df441d3f572649e26eb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6276a9ba8a5bc82d05ae0d974171a15c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6276a9ba8a5bc82d05ae0d974171a15c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\livedata-1.1.0.aar\8e36e683f7f491bfccb8182fdbb1123c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\livedata-1.1.0.aar\8e36e683f7f491bfccb8182fdbb1123c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\76f13cccfc2468dc60030e201d1053c2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\76f13cccfc2468dc60030e201d1053c2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\04b4edde68a3cb586bc6e225d55598c1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\04b4edde68a3cb586bc6e225d55598c1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e9bb4c7d3caa51221f77a27b4ebdcbb4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e9bb4c7d3caa51221f77a27b4ebdcbb4\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mdsrs\OneDrive\Documents\PopularMovieeStage2\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\d91bbbbf87f45054905e7f9a9d7063d3\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\d91bbbbf87f45054905e7f9a9d7063d3\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\d91bbbbf87f45054905e7f9a9d7063d3\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\d91bbbbf87f45054905e7f9a9d7063d3\AndroidManifest.xml:9:13-64
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\c1adc8056b79bbc020452e637a63ced4\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\c1adc8056b79bbc020452e637a63ced4\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\c1adc8056b79bbc020452e637a63ced4\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\c1adc8056b79bbc020452e637a63ced4\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\mdsrs\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\c1adc8056b79bbc020452e637a63ced4\AndroidManifest.xml:24:13-83

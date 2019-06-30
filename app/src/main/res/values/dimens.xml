@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="image_height">220dp</dimen>
+    <dimen name="text_title">18sp</dimen>
+    <dimen name="text_sub_title">14sp</dimen>
+    <dimen name="text_review">12sp</dimen>
+</resources>
